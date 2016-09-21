@@ -9,7 +9,6 @@ About
 
 <h1>This is the about page</h1>
 <p> {{$name}} </p>
-<Span> Test for git </Span>
 
  @if($isUserRegistered== true)
  Hello mate
